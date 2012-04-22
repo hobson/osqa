@@ -1,0 +1,7 @@
+*~
+settings_local.py
+*.o
+*.pyc
+*.exe
+*.bak
+*.old
